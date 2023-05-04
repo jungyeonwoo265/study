@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNNTest", "CNNTest\CNNTest.csproj", "{0942F9AD-0F17-42C7-A966-E5C0D9DE6597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0942F9AD-0F17-42C7-A966-E5C0D9DE6597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0942F9AD-0F17-42C7-A966-E5C0D9DE6597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0942F9AD-0F17-42C7-A966-E5C0D9DE6597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0942F9AD-0F17-42C7-A966-E5C0D9DE6597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A0D83B4-5172-4A38-9DAE-344E2F6E93C4}
+	EndGlobalSection
+EndGlobal
