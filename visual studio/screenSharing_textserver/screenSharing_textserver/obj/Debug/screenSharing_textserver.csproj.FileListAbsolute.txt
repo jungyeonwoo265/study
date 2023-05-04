@@ -1,0 +1,10 @@
+C:\Users\Kiot\source\repos\screenSharing_textserver\screenSharing_textserver\bin\Debug\screenSharing_textserver.exe.config
+C:\Users\Kiot\source\repos\screenSharing_textserver\screenSharing_textserver\bin\Debug\screenSharing_textserver.exe
+C:\Users\Kiot\source\repos\screenSharing_textserver\screenSharing_textserver\bin\Debug\screenSharing_textserver.pdb
+C:\Users\Kiot\source\repos\screenSharing_textserver\screenSharing_textserver\obj\Debug\screenSharing_textserver.csproj.AssemblyReference.cache
+C:\Users\Kiot\source\repos\screenSharing_textserver\screenSharing_textserver\obj\Debug\screenSharing_textserver.Form1.resources
+C:\Users\Kiot\source\repos\screenSharing_textserver\screenSharing_textserver\obj\Debug\screenSharing_textserver.Properties.Resources.resources
+C:\Users\Kiot\source\repos\screenSharing_textserver\screenSharing_textserver\obj\Debug\screenSharing_textserver.csproj.GenerateResource.cache
+C:\Users\Kiot\source\repos\screenSharing_textserver\screenSharing_textserver\obj\Debug\screenSharing_textserver.csproj.CoreCompileInputs.cache
+C:\Users\Kiot\source\repos\screenSharing_textserver\screenSharing_textserver\obj\Debug\screenSharing_textserver.exe
+C:\Users\Kiot\source\repos\screenSharing_textserver\screenSharing_textserver\obj\Debug\screenSharing_textserver.pdb
