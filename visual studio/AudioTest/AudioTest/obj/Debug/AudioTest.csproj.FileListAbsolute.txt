@@ -1,0 +1,12 @@
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\bin\Debug\AudioTest.exe.config
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\bin\Debug\AudioTest.exe
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\bin\Debug\AudioTest.pdb
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.AssemblyReference.cache
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.ResolveComReference.cache
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.Form1.resources
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.Properties.Resources.resources
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.GenerateResource.cache
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.CoreCompileInputs.cache
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.exe
+C:\Users\Kiot\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.pdb
