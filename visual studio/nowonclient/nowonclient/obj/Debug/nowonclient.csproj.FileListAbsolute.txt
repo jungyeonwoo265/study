@@ -1,0 +1,7 @@
+C:\Users\Kiot\source\repos\nowonclient\nowonclient\bin\Debug\nowonclient.exe.config
+C:\Users\Kiot\source\repos\nowonclient\nowonclient\bin\Debug\nowonclient.exe
+C:\Users\Kiot\source\repos\nowonclient\nowonclient\bin\Debug\nowonclient.pdb
+C:\Users\Kiot\source\repos\nowonclient\nowonclient\obj\Debug\nowonclient.csproj.AssemblyReference.cache
+C:\Users\Kiot\source\repos\nowonclient\nowonclient\obj\Debug\nowonclient.csproj.CoreCompileInputs.cache
+C:\Users\Kiot\source\repos\nowonclient\nowonclient\obj\Debug\nowonclient.exe
+C:\Users\Kiot\source\repos\nowonclient\nowonclient\obj\Debug\nowonclient.pdb

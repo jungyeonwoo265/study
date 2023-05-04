@@ -1,0 +1,4 @@
+﻿  nowonserver.cpp
+C:\Users\Kiot\source\repos\nowonserver\nowonserver\nowonserver.cpp(30,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Kiot\source\repos\nowonserver\nowonserver\nowonserver.cpp(36,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  nowonserver.vcxproj -> C:\Users\Kiot\source\repos\nowonserver\Debug\nowonserver.exe
