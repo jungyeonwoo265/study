@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jyyProject", "jyyProject.csproj", "{EEE5A553-1458-4D5B-94FC-34FA0424583A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE5A553-1458-4D5B-94FC-34FA0424583A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE5A553-1458-4D5B-94FC-34FA0424583A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE5A553-1458-4D5B-94FC-34FA0424583A}.Debug|x64.ActiveCfg = Debug|x64
+		{EEE5A553-1458-4D5B-94FC-34FA0424583A}.Debug|x64.Build.0 = Debug|x64
+		{EEE5A553-1458-4D5B-94FC-34FA0424583A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE5A553-1458-4D5B-94FC-34FA0424583A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE5A553-1458-4D5B-94FC-34FA0424583A}.Release|x64.ActiveCfg = Release|x64
+		{EEE5A553-1458-4D5B-94FC-34FA0424583A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79616481-681C-4D36-942A-19CB9E5B59F9}
+	EndGlobalSection
+EndGlobal
