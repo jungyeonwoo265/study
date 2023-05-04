@@ -1,0 +1,10 @@
+C:\Users\Kiot\source\repos\screenSharing_testclient\screenSharing_testclient\bin\Debug\screenSharing_testclient.exe.config
+C:\Users\Kiot\source\repos\screenSharing_testclient\screenSharing_testclient\bin\Debug\screenSharing_testclient.exe
+C:\Users\Kiot\source\repos\screenSharing_testclient\screenSharing_testclient\bin\Debug\screenSharing_testclient.pdb
+C:\Users\Kiot\source\repos\screenSharing_testclient\screenSharing_testclient\obj\Debug\screenSharing_testclient.csproj.AssemblyReference.cache
+C:\Users\Kiot\source\repos\screenSharing_testclient\screenSharing_testclient\obj\Debug\screenSharing_testclient.Form1.resources
+C:\Users\Kiot\source\repos\screenSharing_testclient\screenSharing_testclient\obj\Debug\screenSharing_testclient.Properties.Resources.resources
+C:\Users\Kiot\source\repos\screenSharing_testclient\screenSharing_testclient\obj\Debug\screenSharing_testclient.csproj.GenerateResource.cache
+C:\Users\Kiot\source\repos\screenSharing_testclient\screenSharing_testclient\obj\Debug\screenSharing_testclient.csproj.CoreCompileInputs.cache
+C:\Users\Kiot\source\repos\screenSharing_testclient\screenSharing_testclient\obj\Debug\screenSharing_testclient.exe
+C:\Users\Kiot\source\repos\screenSharing_testclient\screenSharing_testclient\obj\Debug\screenSharing_testclient.pdb
